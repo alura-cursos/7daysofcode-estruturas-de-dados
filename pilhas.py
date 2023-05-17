@@ -31,13 +31,11 @@ class PilhaDeLivros:
 
 pilha = PilhaDeLivros()
 
-pilha.adicionar_livro("Harry Potter e a Pedra Filosofal", 223)
-pilha.adicionar_livro("Harry Potter e a Câmara Secreta", 251)
-pilha.adicionar_livro("Harry Potter e o Prisioneiro de Azkaban", 317)
-pilha.adicionar_livro("Harry Potter e o Cálice de Fogo", 636)
-pilha.adicionar_livro("Harry Potter e a Ordem da Fênix", 766)
-pilha.adicionar_livro("Harry Potter e o Enigma do Príncipe", 607)
-pilha.adicionar_livro("Harry Potter e as Relíquias da Morte", 607)
+pilha.adicionar_livro("A Guerra dos Tronos", 600)
+pilha.adicionar_livro("A Fúria dos Reis", 648)
+pilha.adicionar_livro("A Tormenta das Espadas", 848)
+pilha.adicionar_livro("O Festim dos Corvos", 608)
+pilha.adicionar_livro("A Dança dos Dragões", 336)
 
 pilha.mostrar_livros()
 
